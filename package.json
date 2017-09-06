@@ -2,7 +2,7 @@
   "name": "text-generator-app",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://justdo1t.github.io/text-generator-app",
+  "homepage" : "https://justdo1t.github.io/react-text-generator/",
   "dependencies": {
     "axios": "^0.16.2",
     "jquery": "^3.2.1",
